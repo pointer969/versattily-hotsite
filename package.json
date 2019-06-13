@@ -1,0 +1,14 @@
+{
+	"name": "versattily-hotsite",
+	"version": "1.0.0",
+	"description": "CMS to Manage Versattily Hot Site",
+	"main": "assets/vendor/enduro/index.js",
+	"scripts": {
+		"start": "node_modules/.bin/enduro start"
+	},
+	"author": "MSA",
+	"license": "MIT",
+	"dependencies": {
+		"enduro": "*"
+	}
+}
